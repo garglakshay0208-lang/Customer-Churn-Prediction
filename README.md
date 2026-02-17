@@ -6,7 +6,7 @@ The system analyzes customer attributes such as tenure, monthly charges, total b
 
 In addition to prediction, the project includes graphical analysis of churn trends, feature importance visualization, and input validation mechanisms to ensure reliable results. The goal of the system is to support data-driven decision making and help organizations proactively retain high-risk customers.
 
-Key Features
+#Key Features
 
 Machine learning churn prediction using Random Forest
 
@@ -22,7 +22,7 @@ Simple, responsive, and intuitive UI
 
 Model saved and reused without retraining
 
-Tech Stack
+#Tech Stack
 
 Python
 
