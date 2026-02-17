@@ -36,6 +36,6 @@ Matplotlib / Seaborn (Visualization)
 
 HTML/CSS (Frontend)
 
-Project Purpose
+#Project Purpose
 
 This project shows how machine learning can be integrated into a practical business solution to identify customers at risk of churn. It serves as a foundation for real-world predictive analytics systems and demonstrates the application of AI in customer retention strategies.
